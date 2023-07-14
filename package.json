@@ -2,13 +2,21 @@
   "name": "1_2_task_3_",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "live-server ."
+    "serve": "live-server ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natalikud/Natalikud-hw_js_adv_ESM.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natalikud/Natalikud-hw_js_adv_ESM/issues"
+  },
+  "homepage": "https://github.com/Natalikud/Natalikud-hw_js_adv_ESM#readme",
   "devDependencies": {
     "live-server": "^1.2.2"
   }
